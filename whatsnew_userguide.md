@@ -1,6 +1,6 @@
-# What's New in release 1.1 - WidgetApp User Guide
+# What's new in release 1.1 - WidgetApp user guide
 We've made some changes to WidgetApp to enhance your design experience with Things.
-- A new Streaming service that runs in the background will make the design process faster, with quicker updates to your Thing file.
+- A new Streaming service that runs in the background will make the design process faster, with quicker updates to your Things file.
 - Multiple users can now work on the same Thing at the same time.
 - 
 
