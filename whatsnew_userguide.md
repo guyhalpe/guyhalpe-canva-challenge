@@ -1,10 +1,14 @@
-# What's new in release 1.1 - WidgetApp User guide
+# WidgetApp User guide - what's new in release 1.1 
 
 Designing Things is now collaborative. You and other designers can now work on the same Thing at the same time.
 
 This is made possible by a new Streaming feature, comprised of two parts:
 - **Streaming Front End (SFE)**, a function that pushes changes from other collaborating designers to you via the web server to show them to you quickly[^1].
 - **Streaming API (SAPI)**, a function to receive connections from external systems to WidgetApp.
+
+There is no change to the user interface or functionality. Connect to your Thing file, and edit it as you usually do.[^2]
+
+*Note: if you experience authentication or performance issues, contact your System Administrator.*[^3]
 
 ---
 ***Comments***
@@ -17,3 +21,5 @@ This is made possible by a new Streaming feature, comprised of two parts:
   - What about error messages or conditions for user group validation? Did approved user group validation exist before the Streaming feature?
 
 [^1]: Ideally I would like to use the words *real time* here', but being cautious - it may not be possible because of the potential server load issue).
+[^2]: I would confirm that this is the case. See bullet 2 under **Questions I would ask** above.
+[^3]: This would also be confirmed with an SME before including in the documentation. Relates to bullet 3 under **Questions I would ask** above.  
