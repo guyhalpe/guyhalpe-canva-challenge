@@ -1,4 +1,4 @@
-# Guy Halpé - Challenge 2, Three What's New sections for WidgetApp
+# Guy Halpé - Challenge 2, three **What's New** sections for WidgetApp
 Thank you, Canva, for giving me this opportunity to show you what I can do. Some comments about the files below:
 - I haven't used Markdown before, or created my own repo in Github, so did not include the time taken to learn about these as part of the 3 hours allocated to the challenge.
 - The three **What's new** sections are in three separate files.
