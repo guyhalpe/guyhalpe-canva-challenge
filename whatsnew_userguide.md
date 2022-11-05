@@ -1,4 +1,4 @@
-# WidgetApp User guide - what's new in release 1.1 
+# What's new in release 1.1 (WidgetApp User guide)  
 
 Designing Things is now collaborative. You and other designers can now work on the same Thing at the same time.
 
@@ -12,7 +12,7 @@ There is no change to the user interface or functionality. Connect to your Thing
 
 ---
 ***Comments***
-- **Purpose**: what is the purpose of SAPI? Is it only to establish multi-user functionality, or are there other benefits? I feel this needs to be clarified to focus the documentation.
+- **Purpose**: what's the purpose of SAPI? Is it only to establish multi-user functionality, or are there other benefits? I feel this needs to be clarified to focus the documentation.
 - **Target audience**: non-technical (designer) user, focused on the changes to the user interface and basic functionality - so this is the focus for the content as well. In keeping with that, I wouldn't tell them about potential authentication and server load issues. Is the term *user* acceptable? Some don't like it, so I've used *designer* wherever possible.
 - **Content placement in guide structure (Table of Contents, TOC)**: most likely at the top of the document. If there was already a section or table for release 1.0, this would slot in just below.
 - **Questions I would ask (potentially more things to document at a designer level)**:
