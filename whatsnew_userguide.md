@@ -1,4 +1,4 @@
-# What's new in release 1.1 - WidgetApp user guide
+# What's new in release 1.1 - WidgetApp User guide
 
 Designing Things is now collaborative. You and other designers can now work on the same Thing at the same time.
 
