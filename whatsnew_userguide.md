@@ -8,6 +8,7 @@ This is made possible by a new Streaming feature, comprised of two parts:
 
 ---
 ***Comments***
+- **Purpose**: what is the purpose of SAPI? Is it only to establish multi-user functionality, or are there other benefits? I feel this needs to be clarified to focus the documentation.
 - **Target audience**: non-technical (designer) user, focused on the changes to the user interface and basic functionality - so this is the focus for the content as well. In keeping with that, I wouldn't tell them about potential authentication and server load issues. Is the term *user* acceptable? Some don't like it, so I've used *designer* wherever possible.
 - **Content placement in guide structure (Table of Contents, TOC)**: most likely at the top of the document. If there was already a section or table for release 1.0, this would slot in just below.
 - **Questions I would ask (potentially more things to document at a designer level)**:
