@@ -1,14 +1,14 @@
 # What's new in release 1.1 (WidgetApp API guide)  
 
-*edit user content below*
+A new API is available for external connections to the WidgetApp server, and to allow multiple users to work on the same Thing at the same time.  
 
-This is made possible by a new Streaming feature, comprised of two parts:
+This is made possible by a new Streaming feature, which has two parts:
+- **Streaming API (SAPI)**,  to send and receive connections from external systems to WidgetApp.
 - **Streaming Front End (SFE)**, a function that pushes changes from other collaborating designers to you via the web server to show them to you quickly[^1].
-- **Streaming API (SAPI)**, a function to receive connections from external systems to WidgetApp.
 
-There is no change to the user interface or functionality. Connect to your Thing file, and edit it as you usually do.[^2]
+SAPI runs over websockets. Different services may use the same websocket connection[^2]
 
-*Note: if you experience authentication or performance issues, contact your System Administrator.*[^3]
+*Note: SAPI is authorized only for approved user groups, managed through OAuth 2.0 tokens.*[^3]
 
 ---
 ***Comments***
