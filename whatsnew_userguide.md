@@ -10,6 +10,9 @@ There is no change to the user interface or functionality. Connect to your Thing
 
 *Note: if you experience authentication or performance issues, contact your System Administrator.*[^3]
 
+## For more information
+For more information, see the **Streaming API** section of the **WidgetApp User guide**.
+
 ---
 ***Comments***
 - **Purpose**: what's the purpose of SAPI? Is it only to establish multi-user functionality, or are there other benefits? I feel this needs to be clarified to focus the documentation.
