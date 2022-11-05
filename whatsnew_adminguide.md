@@ -15,6 +15,11 @@ A new Streaming feature is available to add multi-user functionality to WidgetAp
 - User actions like *search* or *scrolling* are handled by `_ajax/` endpoints[^3].
 ## Cautions
 - SAPI and SFE processes add to server load. If the system is running slower than expected, see section ___ [^4] for more information on monitoring and restarting stream processes.
+
+# For more information
+
+For more information, see the **Streaming API** section of the **WidgetApp Administrator guide**.
+
 ---
 ***Comments***
 - **Purpose**: what is the purpose of SAPI? Is it only to establish multi-user functionality, or are there other benefits? I feel this needs to be clarified to focus the documentation.
