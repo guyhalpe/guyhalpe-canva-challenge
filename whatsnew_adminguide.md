@@ -1,11 +1,11 @@
 # What's new in release 1.1 (WidgetApp Administrator guide)
 
-A new Streaming feature is available to add multi-user functionality to WidgetApp[^1]. It has two parts.
+A new Streaming feature is available to add multi-user functionality to WidgetApp. It has two parts.
 - **Streaming API (SAPI)**, a function to receive connections from external systems to WidgetApp.
 - **Streaming Front End (SFE)**, a function to manage incoming sessions from SAPI.
 
 ## Connection to web server
-- Connections run over websockets. Different services[^2] can use the same websocket connection.
+- Connections run over websockets[^1]. Different services[^2] can use the same websocket connection.
 ## Authentication
 - Authentication is unchanged from version 1.0, managed through the existing WidgetApp FrontEnd (WFE).
 - SAPI authentication is restricted to authorized user groups, managed with OAuth 2.0 access tokens.
@@ -30,7 +30,7 @@ For more information, see the **Streaming API** section of the **WidgetApp Admin
   - As with the User guide, what about error messages or conditions?
   - Changes to functions, database tables etc that will need to be documented within the guide? Possibly user information at least is stored in tables? If not, what sort of static records are used by the Streaming feature?
 
-[^1]: Is this the only purpose of SAPI?
+[^1]: Cross reference to WidgetApps API Guide.
 [^2]: Should these services be documented? If so, a link to a section within the Admin guide.
 [^3]: Document these? If so, a link to a section within the Admin guide.
 [^4]: Link to a section within the Admin guide for the instructions on monitoring and restarting. This content would not be usually included in a **What's new** content section.
