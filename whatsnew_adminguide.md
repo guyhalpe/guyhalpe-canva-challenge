@@ -16,7 +16,7 @@ A new Streaming feature is available to add multi-user functionality to WidgetAp
 ## Cautions
 - SAPI and SFE processes add to server load. If the system is running slower than expected, see section ___ [^4] for more information on monitoring and restarting stream processes.
 
-# For more information
+## For more information
 
 For more information, see the **Streaming API** section of the **WidgetApp Administrator guide**.
 
