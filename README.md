@@ -10,14 +10,14 @@ Thank you for giving me this opportunity to show you what I can do, and for your
 
 ## Repository contents
 
-<mark>***Note: on some devices, the files described below may not be visible initially. Click the `View Code` button to show them.***</mark>
+<mark>==***Note: on some devices, the files described below may not be visible initially. Click the `View Code` button to show them, or use the links below.***==</mark>
 
 - `README.md`, this file, contains introductory comments on my process, approach and the contents of the repo. 
 - The three **What's new** sections are in three separate Markdown (.md) files with logical filenames:
-  - `whatsnew_userguide.md`
-  - `whatsnew_adminguide.md`
-  - `whatsnew_apiguide.md`.
-- `other_comments.md` contains other questions and thoughts I had while doing the exercise.
+  - [`whatsnew_userguide.md`](https://github.com/guyhalpe/guyhalpe-canva-challenge/blob/main/whatsnew_userguide.md)
+  - [`whatsnew_adminguide.md`](https://github.com/guyhalpe/guyhalpe-canva-challenge/blob/main/whatsnew_adminguide.md)
+  - [`whatsnew_apiguide.md`](https://github.com/guyhalpe/guyhalpe-canva-challenge/blob/main/whatsnew_apiguide.md).
+- [`other_comments.md`](https://github.com/guyhalpe/guyhalpe-canva-challenge/blob/main/other_comments.md) contains other questions and thoughts I had while doing the exercise.
 - Each of the **What's new** section files is structured this way:
   - First the text for proposed **What's new** content section, with inline footnote links for comments.
   - Next, a **Comments** section that covers my thoughts and questions.
