@@ -4,7 +4,7 @@ A new API is available for external connections to the WidgetApp server, and to 
 
 This is made possible by a new Streaming feature, which has two parts:
 - **Streaming API (SAPI)**,  to send and receive connections from external systems to WidgetApp.
-- **Streaming Front End (SFE)**, a function that pushes changes from other collaborating designers to the principal user quickly[^1].
+- **Streaming Front End (SFE)**, a function that pushes changes from multiple designers to the Thing[^1].
 
 Other features of SAPI:
 - SAPI runs over websockets. Different services may use the same websocket connection[^2].
@@ -31,6 +31,6 @@ For more information, see the **Streaming API** section of the **WidgetApp API g
 - **Questions I would ask (potentially more items to document)**:
   - What about API related error messages or conditions? Check and include.
 
-[^1]: Would it actually be quick, if we have potential server load issues? Something to check.
+[^1]: The notes indicate that propagating changes will be quick, but is that actually true if we have potential server load issues? Since there is a potential contradiction here, I left it out until it can be checked.
 [^2]: As with the Admin guide update, potentially need to document the services and link to the relevant section in the Admin guide.
 [^3]: Not sure if Ajax endpoints need to be added here or in the Admin guide. I would check this with an SME and write it up in the appropriate guide. If in the Admin guide, I'd insert a cross-reference.
