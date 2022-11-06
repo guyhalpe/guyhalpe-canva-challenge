@@ -2,7 +2,7 @@
 
 A new API is available for external connections to the WidgetApp server, and to allow multiple users to work on the same Thing at the same time.  
 
-This is made possible by a new Streaming feature, which has two parts:
+This is made possible by a new **Streaming API** feature, which has two parts:
 - **Streaming API (SAPI)**,  to send and receive connections from external systems to WidgetApp.
 - **Streaming Front End (SFE)**, a function that pushes changes from multiple designers to the Thing[^1].
 
@@ -29,8 +29,8 @@ For more information, see the **Streaming API** section of the **WidgetApp API g
 - **Target audience**: technical developer, coding an external application to enable designers to connect to WidgetApp's SAPI.
 - **Content placement in guide structure (Table of Contents, TOC)**: most likely at the top of the document. If there was already a section or table for release 1.0, this would slot in just below.
 - **Questions I would ask (potentially more items to document)**:
-  - What about API related error messages or conditions? Check and include.
+  - What about API related error messages or conditions? I would check and include these if relevant.
 
 [^1]: The notes indicate that propagating changes will be quick, but is that actually true if we have potential server load issues? Since there is a potential contradiction here, I left it out until it can be checked.
-[^2]: As with the Admin guide update, potentially need to document the services and link to the relevant section in the Admin guide.
+[^2]: As with the Admin guide, if the services need to be documented, a link would be inserted here to the relevant section in the Admin guide.
 [^3]: Not sure if Ajax endpoints need to be added here or in the Admin guide. I would check this with an SME and write it up in the appropriate guide. If in the Admin guide, I'd insert a cross-reference.
