@@ -27,5 +27,7 @@ I've tried to follow the challenge presentation style conventions, and made this
 
 ---
 *Guy Halpé*
+
 *guyhalpe@gmail.com*
+
 *+64 21 1326231 (WhatsApp also)*
