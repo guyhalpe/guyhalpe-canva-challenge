@@ -4,7 +4,7 @@
 
 Thank you for giving me this opportunity to show you what I can do, and for your time reviewing this Challenge.
 
-I've tried to follow the Challenge presentation style conventions, and made this repo Public for easy access. Please let me know if you would prefer it to be Private.
+I've tried to follow the Challenge presentation style conventions, and made this repo *public* for easy access. Please let me know if you would prefer it to be *private*.
 
 ## Repository contents
 
