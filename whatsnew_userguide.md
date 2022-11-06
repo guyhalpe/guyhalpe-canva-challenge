@@ -21,7 +21,7 @@ For more information, see the **Streaming API** section of the **WidgetApp User 
 - **Questions I would ask (potentially more items to document at a designer level)**:
   - I took it that the SAPI feature is mostly transparent to the designer, but is it fully transparent? Would there be progress or performance indicators?
   - If WidgetApp is now moving to a multi-user experience, would there be UI elements (buttons, icons, chat or communication pop-ups) to interact with other users?
-  - What about error messages or conditions for user group validation? Did approved user group validation exist before the Streaming feature?
+  - What about error messages or conditions for user group validation? Did approved user group validation exist before the SAPI feature?
 
 [^1]: Initially I wanted to add something about serving the changes to the designer quickly, perhaps even in *real time*, but then the notes about the potential server load issue seemed to contradict the idea of a speed improvement. This would be good to add, if we could prove it.
 [^2]: I would confirm that this is the case. See bullet 2 under **Questions I would ask** above.
