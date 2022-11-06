@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Thank you for giving me this opportunity to show you what I can do, and thank you for your time reviewing this Challenge.
+Thank you for giving me this opportunity to show you what I can do, and for your time reviewing this Challenge.
+
 - I haven't used Markdown before, or created my own repository (repo) in Github, so didn't include the time taken to learn these new technologies as part of the 3 hours allocated to the challenge.
 - I've tried to follow the Challenge presentation style conventions.
 - I've made this repo Public for easy access. Please let me know if you would prefer it to be Private.
