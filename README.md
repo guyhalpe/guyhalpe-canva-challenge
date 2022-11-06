@@ -10,6 +10,8 @@ Thank you for giving me this opportunity to show you what I can do, and for your
 
 ## Repository contents
 
+<mark>***Note: on some devices, the files described below may not be visible initially. Click the `View Code` button to show them.***</mark>
+
 - `README.md`, this file, contains introductory comments on my process, approach and the contents of the repo. 
 - The three **What's new** sections are in three separate Markdown (.md) files with logical filenames:
   - `whatsnew_userguide.md`
