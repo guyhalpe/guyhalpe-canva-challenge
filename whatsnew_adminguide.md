@@ -2,7 +2,7 @@
 
 A new **Streaming API** feature is available to add multi-user functionality to WidgetApp. It has two parts.
 - **Streaming API (SAPI)**, a function to receive connections from external systems to WidgetApp.
-- **Streaming Front End (SFE)**, a function to manage incoming sessions from SAPI.
+- **Streaming FrontEnd (SFE)**, a function to manage incoming sessions from SAPI.
 
 ## Connection to web server
 - Connections run over websockets[^1]. Different services[^2] can use the same websocket connection.

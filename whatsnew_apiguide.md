@@ -4,7 +4,7 @@ A new API is available for external connections to the WidgetApp server, and to 
 
 This is made possible by a new **Streaming API** feature, which has two parts:
 - **Streaming API (SAPI)**,  to send and receive connections from external systems to WidgetApp.
-- **Streaming Front End (SFE)**, a function that pushes changes from multiple designers to the Thing[^1].
+- **Streaming FrontEnd (SFE)**, a function that pushes changes from multiple designers to the Thing[^1].
 
 Other features of SAPI:
 - SAPI runs over websockets. Different services may use the same websocket connection[^2].
