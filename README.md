@@ -4,7 +4,7 @@
 
 Thank you for giving me this opportunity to show you what I can do, and for your time reviewing this challenge.
 
-I've tried to follow the challenge presentation style conventions, and made this repo *public* for easy access. Please let me know if you would prefer it to be *private*.
+I've tried to follow the challenge presentation style conventions, and made this repository (repo) *public* for easy access. Please let me know if you would prefer it to be *private*.
 
 ## Repository contents
 
@@ -27,5 +27,7 @@ I've tried to follow the challenge presentation style conventions, and made this
 
 ---
 *Guy Halpé
+
 guyhalpe@gmail.com
+
 +64 21 1326231 (WhatsApp also)*
