@@ -18,7 +18,7 @@ For more information, see the **Streaming API** section of the **WidgetApp User 
 - **Purpose**: what's the purpose of SAPI? Is it only to establish multi-user functionality, or are there other benefits? I feel this needs to be clarified to make the documentation more meaningful.
 - **Target audience**: non-technical (designer) user, focused on the changes to the user interface and basic functionality - so this is the focus for the content as well. In keeping with that, I wouldn't tell them about potential authentication and server load issues. Is the term *user* acceptable? Some don't like it, so I've used *designer* wherever possible.
 - **Content placement in guide structure (Table of Contents, TOC)**: most likely at the top of the document. If there was already a section or table for release 1.0, this would slot in just below.
-- **Questions I would ask (potentially more things to document at a designer level)**:
+- **Questions I would ask (potentially more items to document at a designer level)**:
   - I took it that the Streaming feature is mostly transparent to the designer, but is it fully transparent? Would there be progress or performance indicators?
   - If WidgetApp is now moving to a multi-user experience, would there be UI elements (buttons, icons, chat or communication pop-ups) to interact with other users?
   - What about error messages or conditions for user group validation? Did approved user group validation exist before the Streaming feature?
