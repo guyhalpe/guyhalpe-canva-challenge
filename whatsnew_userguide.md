@@ -1,6 +1,6 @@
 # What's new in release 1.1 (WidgetApp User guide)  
 
-Designing Things is now collaborative. You and other designers can now work on the same Thing at the same time.
+Designing Things has become collaborative. You and other designers can now work on the same Thing at the same time.
 
 This is made possible by a new Streaming feature, comprised of two parts:
 - **Streaming Front End (SFE)**, a function that pushes changes from other collaborating designers to you via the web server[^1].
