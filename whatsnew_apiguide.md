@@ -28,7 +28,7 @@ For more information, see the **Streaming API** section of the **WidgetApp API g
 - **Purpose**: what is the purpose of SAPI? Is it only to establish multi-user functionality, or are there other benefits? I feel this needs to be clarified to make the documentation more meaningful.
 - **Target audience**: technical developer, coding an external application to enable designers to connect to WidgetApp's SAPI.
 - **Content placement in guide structure (Table of Contents, TOC)**: most likely at the top of the document. If there was already a section or table for release 1.0, this would slot in just below.
-- **Questions I would ask (potentially more things to document**:
+- **Questions I would ask (potentially more items to document)**:
   - What about API related error messages or conditions? Check and include.
 
 [^1]: Would it actually be quick, if we have potential server load issues? Something to check.
