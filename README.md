@@ -26,8 +26,6 @@ I've tried to follow the challenge presentation style conventions, and made this
 - **Release versioning**. For the purposes of this challenge and to provide some context when referring to legacy and new functionality, I've invented a release version **1.0**, with the new functionality linked to release version **1.1**.
 
 ---
-*Guy Halpé
-
-guyhalpe@gmail.com
-
-+64 21 1326231 (WhatsApp also)*
+*Guy Halpé*
+*guyhalpe@gmail.com*
+*+64 21 1326231 (WhatsApp also)*
