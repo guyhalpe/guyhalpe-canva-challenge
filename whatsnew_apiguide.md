@@ -33,4 +33,4 @@ For more information, see the **Streaming API** section of the **WidgetApp API g
 
 [^1]: Would it actually be quick, if we have potential server load issues? Something to check.
 [^2]: As with the Admin guide update, potentially need to document the services and link to the relevant section in the Admin guide.
-[^3]: Not sure if Ajax endpoints need to be added here or in the Admin guide, I would check this with an SME and write it up in the appropriate guide. If in the Admin guide, insert a cross-reference.
+[^3]: Not sure if Ajax endpoints need to be added here or in the Admin guide. I would check this with an SME and write it up in the appropriate guide. If in the Admin guide, I'd insert a cross-reference.
