@@ -1,10 +1,10 @@
-# Guy Halpé - Challenge 2, three What's new sections for WidgetApp
+# Guy Halpé - challenge 2, three What's new sections for WidgetApp
 
 ## Introduction
 
-Thank you for giving me this opportunity to show you what I can do, and for your time reviewing this Challenge.
+Thank you for giving me this opportunity to show you what I can do, and for your time reviewing this challenge.
 
-I've tried to follow the Challenge presentation style conventions, and made this repo *public* for easy access. Please let me know if you would prefer it to be *private*.
+I've tried to follow the challenge presentation style conventions, and made this repo *public* for easy access. Please let me know if you would prefer it to be *private*.
 
 ## Repository contents
 
