@@ -23,7 +23,7 @@ For more information, see the **Streaming API** section of the **WidgetApp Admin
 ---
 ***Comments***
 - **Purpose**: what is the purpose of SAPI? Is it only to establish multi-user functionality, or are there other benefits? I feel this needs to be clarified to make the documentation more meaningful.
-- **Target audience**: technical administrator. They would focus on setup, permissions, connections and generally helping the designer work with Things seamlessly.
+- **Target audience**: technical administrator, focused on the necessary setup, permissions, connections and so on to create a stable environment in which the designer can work with Thing files seamlessly.
 - **Content placement in guide structure (Table of Contents, TOC)**: most likely at the top of the document. If there was already a section or table for release 1.0, this would slot in just below.
 - **Questions I would ask (potentially more things to document within the Administrator guide)**:
   - Given the target audience, are there no *setup or configuration* steps?
