@@ -28,7 +28,7 @@ For more information, see the **Streaming API** section of the **WidgetApp Admin
 - **Questions I would ask (potentially more items to document within the Administrator guide)**:
   - Given the target audience, are there no *setup or configuration* steps?
   - As with the User guide, what about error messages or conditions?
-  - Changes to functions, database tables etc that will need to be documented within the guide? Possibly user information at least is stored in tables? If not, what sort of static records are used by the Streaming feature?
+  - Changes to functions, database tables etc that will need to be documented within the guide? Is user information stored in tables? If not, what sort of static records are used by the Streaming feature?
 
 [^1]: Cross reference to WidgetApps API Guide.
 [^2]: Should these services be documented? If so, a link to a section within the Admin guide.
