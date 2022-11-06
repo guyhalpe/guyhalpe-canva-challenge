@@ -19,7 +19,7 @@ For more information, see the **Streaming API** section of the **WidgetApp User 
 - **Target audience**: non-technical (designer) user, focused on the changes to the user interface and basic functionality - so this is the focus for the content as well. In keeping with that, I wouldn't tell them about potential authentication and server load issues. Is the term *user* acceptable? Some don't like it, so I've used *designer* wherever possible.
 - **Content placement in guide structure (Table of Contents, TOC)**: most likely at the top of the document. If there was already a section or table for release 1.0, this would slot in just below.
 - **Questions I would ask (potentially more items to document at a designer level)**:
-  - I took it that the Streaming feature is mostly transparent to the designer, but is it fully transparent? Would there be progress or performance indicators?
+  - I took it that the SAPI feature is mostly transparent to the designer, but is it fully transparent? Would there be progress or performance indicators?
   - If WidgetApp is now moving to a multi-user experience, would there be UI elements (buttons, icons, chat or communication pop-ups) to interact with other users?
   - What about error messages or conditions for user group validation? Did approved user group validation exist before the Streaming feature?
 
