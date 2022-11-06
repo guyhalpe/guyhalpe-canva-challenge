@@ -21,7 +21,7 @@ I've tried to follow the Challenge presentation style conventions, and made this
 
 ## Approach to the Challenge
 
-- **Sizing and level of detail**. I felt that any **What's new** section should be short and simple, and a precise summary of a more complex piece of functionality - in other words, a release note. So that's how I've written the three sections. I've intentionally kept things as simple as possible, keeping text chunking within the section short too, so that those wanting more detail can link to the relevant sections of the respective guides.
+- **Sizing and level of detail**. I felt that any **What's new** section should be short and simple, and a concise summary of a more complex piece of functionality - in other words, a release note. So that's how I've written the three sections. I've intentionally kept things as simple as possible, keeping text chunking within the section short too, so that those wanting more detail can link to the relevant sections of the respective guides.
 - **Target audience**. With each section, I wrote specifically to a level of complexity that I felt best reflected the target user. I placed myself in their position and tried to address the concerns that they would have.
 - **Release versioning**. For the purposes of this challenge and to provide some context when referring to legacy and new functionality, I've invented a release version **1.0**, with the new functionality linked to release version **1.1**.
 
