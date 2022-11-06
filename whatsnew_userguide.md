@@ -2,7 +2,7 @@
 
 Multiple users can now work together on the same Thing at the same time. You and other designers can now collaborate in real time.
 
-This is made possible by a new Streaming feature, comprised of two parts:
+This is made possible by a new **Streaming API** feature, comprised of two parts:
 - **Streaming Front End (SFE)**, a function that pushes changes from other collaborating designers to you via the web server[^1].
 - **Streaming API (SAPI)**, a function to receive connections from external systems to WidgetApp.
 
