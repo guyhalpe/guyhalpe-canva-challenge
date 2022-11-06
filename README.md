@@ -19,7 +19,7 @@ I've tried to follow the challenge presentation style conventions, and made this
   - Below it, a **Comments** section that covers my thoughts and questions.
   - Lastly, footnote details.
 
-## Approach to the Challenge
+## Approach to the challenge
 
 - **Sizing and level of detail**. I felt that any **What's new** section should be short and simple, and a concise summary of a more complex piece of functionality. So that's how I've written the three sections. I've intentionally kept things as simple as possible, keeping text chunking within the section short too. Readers wanting more details would be able to go to the relevant sections of the respective guides, using a hyperlink in the **For more information** subsection.
 - **Target audience**. With each section, I wrote specifically to a level of complexity that I felt best reflected the target user. I placed myself in their position and tried to address the concerns that they would have.
